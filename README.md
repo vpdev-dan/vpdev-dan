@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-address: Charlottenstraße 65 | 10117 Berlin | Deutschland
+address: Charlottenstraße 65 | 10117 Berlin | Deutschland </br>
 e-mail: daniel.schubert@viaphysio.de
